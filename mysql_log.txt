@@ -1,0 +1,447 @@
+[18:15:44] >> mysql_connect(127.0.0.1, server_4692, server_4692_LatinRolePlay, ******) on port 3306
+[18:15:44] CMySQLHandler::CMySQLHandler() - constructor called.
+[18:15:44] CMySQLHandler::CMySQLHandler() - Connecting to "127.0.0.1" | DB: "server_4692_LatinRolePlay" | Username: "server_4692"
+[18:15:45] CMySQLHandler::Connect() - Can't connect to MySQL server on '127.0.0.1' (10061) (Error ID: 2003)
+[18:23:13] >> mysql_connect(127.0.0.1, server_4692, server_4692_LatinRolePlay, ******) on port 3306
+[18:23:13] CMySQLHandler::CMySQLHandler() - constructor called.
+[18:23:13] CMySQLHandler::CMySQLHandler() - Connecting to "127.0.0.1" | DB: "server_4692_LatinRolePlay" | Username: "server_4692"
+[18:23:14] CMySQLHandler::Connect() - Can't connect to MySQL server on '127.0.0.1' (10061) (Error ID: 2003)
+[13:50:16] >> mysql_connect(127.0.0.1, server_4692, server_4692_LatinRolePlay, ******) on port 3306
+[13:50:16] CMySQLHandler::CMySQLHandler() - constructor called.
+[13:50:16] CMySQLHandler::CMySQLHandler() - Connecting to "127.0.0.1" | DB: "server_4692_LatinRolePlay" | Username: "server_4692"
+[13:50:17] CMySQLHandler::Connect() - Can't connect to MySQL server on '127.0.0.1' (10061) (Error ID: 2003)
+[13:50:17] >> mysql_errno( Connection handle: 1 )
+[13:51:35] >> mysql_connect(127.0.0.1, server_4692, server_4692_LatinRolePlay, ******) on port 3306
+[13:51:35] CMySQLHandler::CMySQLHandler() - constructor called.
+[13:51:35] CMySQLHandler::CMySQLHandler() - Connecting to "127.0.0.1" | DB: "server_4692_LatinRolePlay" | Username: "server_4692"
+[13:51:36] CMySQLHandler::Connect() - Can't connect to MySQL server on '127.0.0.1' (10061) (Error ID: 2003)
+[13:51:36] >> mysql_errno( Connection handle: 1 )
+[13:51:36] >> mysql_close( Connection handle: 1 )
+[13:51:36] CMySQLHandler::~CMySQLHandler() - deconstructor called.
+[13:51:36] CMySQLHandler::FreeResult() - There is nothing to free (Reason: Connection is dead)
+[13:51:36] CMySQLHandler::Disconnect() - You cannot call this function now. (Reason: Connection is dead)
+[13:51:36] Unloading Plugin
+[13:52:36] >> mysql_connect(127.0.0.1, server_4692, server_4692_LatinRolePlay, ******) on port 3306
+[13:52:36] CMySQLHandler::CMySQLHandler() - constructor called.
+[13:52:36] CMySQLHandler::CMySQLHandler() - Connecting to "127.0.0.1" | DB: "server_4692_LatinRolePlay" | Username: "server_4692"
+[13:52:37] CMySQLHandler::Connect() - Can't connect to MySQL server on '127.0.0.1' (10061) (Error ID: 2003)
+[13:52:37] >> mysql_errno( Connection handle: 1 )
+[13:52:37] >> mysql_close( Connection handle: 1 )
+[13:52:37] CMySQLHandler::~CMySQLHandler() - deconstructor called.
+[13:52:37] CMySQLHandler::FreeResult() - There is nothing to free (Reason: Connection is dead)
+[13:52:37] CMySQLHandler::Disconnect() - You cannot call this function now. (Reason: Connection is dead)
+[13:52:37] Unloading Plugin
+[13:52:49] >> mysql_connect(127.0.0.1, server_4692, server_4692_LatinRolePlay, ******) on port 3306
+[13:52:49] CMySQLHandler::CMySQLHandler() - constructor called.
+[13:52:49] CMySQLHandler::CMySQLHandler() - Connecting to "127.0.0.1" | DB: "server_4692_LatinRolePlay" | Username: "server_4692"
+[13:52:50] CMySQLHandler::Connect() - Can't connect to MySQL server on '127.0.0.1' (10061) (Error ID: 2003)
+[13:52:50] >> mysql_errno( Connection handle: 1 )
+[13:52:50] >> mysql_close( Connection handle: 1 )
+[13:52:50] CMySQLHandler::~CMySQLHandler() - deconstructor called.
+[13:52:50] CMySQLHandler::FreeResult() - There is nothing to free (Reason: Connection is dead)
+[13:52:50] CMySQLHandler::Disconnect() - You cannot call this function now. (Reason: Connection is dead)
+[14:43:58] >> mysql_connect(127.0.0.1, server_4692, server_4692_LatinRolePlay, ******) on port 3306
+[14:43:58] CMySQLHandler::CMySQLHandler() - constructor called.
+[14:43:58] CMySQLHandler::CMySQLHandler() - Connecting to "127.0.0.1" | DB: "server_4692_LatinRolePlay" | Username: "server_4692"
+[14:43:58] CMySQLHandler::Connect() - Access denied for user 'server_4692'@'localhost' (using password: YES) (Error ID: 1045)
+[14:43:58] >> mysql_errno( Connection handle: 1 )
+[14:43:58] >> mysql_close( Connection handle: 1 )
+[14:43:58] CMySQLHandler::~CMySQLHandler() - deconstructor called.
+[14:43:58] CMySQLHandler::FreeResult() - There is nothing to free (Reason: Connection is dead)
+[14:43:58] CMySQLHandler::Disconnect() - You cannot call this function now. (Reason: Connection is dead)
+[14:46:44] >> mysql_connect(localhost, root, db, ******) on port 3306
+[14:46:44] CMySQLHandler::CMySQLHandler() - constructor called.
+[14:46:44] CMySQLHandler::CMySQLHandler() - Connecting to "localhost" | DB: "db" | Username: "root"
+[14:46:44] CMySQLHandler::Connect() - Unknown database 'db' (Error ID: 1049)
+[14:46:44] >> mysql_errno( Connection handle: 1 )
+[14:46:44] >> mysql_close( Connection handle: 1 )
+[14:46:44] CMySQLHandler::~CMySQLHandler() - deconstructor called.
+[14:46:44] CMySQLHandler::FreeResult() - There is nothing to free (Reason: Connection is dead)
+[14:46:44] CMySQLHandler::Disconnect() - You cannot call this function now. (Reason: Connection is dead)
+[13:21:51 08/23/20] [ERROR] CMySQLConnection::Connect - (error #2005) Unknown MySQL server host '	127.0.0.1' (0)
+[13:21:51 08/23/20] [ERROR] CMySQLConnection::Connect - (error #2005) Unknown MySQL server host '	127.0.0.1' (0)
+[13:21:51 08/23/20] [ERROR] CMySQLConnection::Connect - (error #2005) Unknown MySQL server host '	127.0.0.1' (0)
+[00:49:54] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Password")
+[00:49:54] [WARNING] CMySQLResult::GetRowDataByName - field not found ("posX")
+[00:49:54] [WARNING] CMySQLResult::GetRowDataByName - field not found ("posY")
+[00:49:54] [WARNING] CMySQLResult::GetRowDataByName - field not found ("posZ")
+[00:51:18] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Password")
+[00:51:25] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Password")
+[00:51:25] [WARNING] CMySQLResult::GetRowDataByName - field not found ("posX")
+[00:51:25] [WARNING] CMySQLResult::GetRowDataByName - field not found ("posY")
+[00:51:25] [WARNING] CMySQLResult::GetRowDataByName - field not found ("posZ")
+[17:47:27] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Password")
+[17:47:40] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Password")
+[17:47:40] [WARNING] CMySQLResult::GetRowDataByName - field not found ("posX")
+[17:47:40] [WARNING] CMySQLResult::GetRowDataByName - field not found ("posY")
+[17:47:40] [WARNING] CMySQLResult::GetRowDataByName - field not found ("posZ")
+[17:48:30] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Password")
+[17:48:37] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Password")
+[17:48:37] [WARNING] CMySQLResult::GetRowDataByName - field not found ("posX")
+[17:48:37] [WARNING] CMySQLResult::GetRowDataByName - field not found ("posY")
+[17:48:37] [WARNING] CMySQLResult::GetRowDataByName - field not found ("posZ")
+[19:18:09] [ERROR] CMySQLConnection::Connect - (error #2005) Unknown MySQL server host 'n51.ultra-h.com:4890' (0)
+[19:18:09] [ERROR] CMySQLConnection::Connect - (error #2005) Unknown MySQL server host 'n51.ultra-h.com:4890' (0)
+[19:18:09] [ERROR] CMySQLConnection::Connect - (error #2005) Unknown MySQL server host 'n51.ultra-h.com:4890' (0)
+[19:18:32] [ERROR] CMySQLConnection::Connect - (error #2005) Unknown MySQL server host 'n51.ultra-h.com:4890' (0)
+[19:18:32] [ERROR] CMySQLConnection::Connect - (error #2005) Unknown MySQL server host 'n51.ultra-h.com:4890' (0)
+[19:18:32] [ERROR] CMySQLConnection::Connect - (error #2005) Unknown MySQL server host 'n51.ultra-h.com:4890' (0)
+[19:18:32] [ERROR] CMySQLConnection::Connect - (error #2005) Unknown MySQL server host 'n51.ultra-h.com:4890' (0)
+[19:21:59] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Password")
+[19:21:59] [WARNING] CMySQLResult::GetRowDataByName - field not found ("posX")
+[19:21:59] [WARNING] CMySQLResult::GetRowDataByName - field not found ("posY")
+[19:21:59] [WARNING] CMySQLResult::GetRowDataByName - field not found ("posZ")
+[19:22:02] [ERROR] mysql_tquery - callback parameter count does not match format specifier length
+[19:23:28] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Password")
+[19:23:34] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Password")
+[19:23:34] [WARNING] CMySQLResult::GetRowDataByName - field not found ("posX")
+[19:23:34] [WARNING] CMySQLResult::GetRowDataByName - field not found ("posY")
+[19:23:34] [WARNING] CMySQLResult::GetRowDataByName - field not found ("posZ")
+[19:25:37] [ERROR] mysql_tquery - callback parameter count does not match format specifier length
+[19:26:07] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Password")
+[19:26:19] [WARNING] CMySQLResult::GetRowDataByName - field not found ("Password")
+[19:26:19] [WARNING] CMySQLResult::GetRowDataByName - field not found ("posX")
+[19:26:19] [WARNING] CMySQLResult::GetRowDataByName - field not found ("posY")
+[19:26:19] [WARNING] CMySQLResult::GetRowDataByName - field not found ("posZ")
+[19:26:33] [ERROR] mysql_tquery - callback parameter count does not match format specifier length
+[18:45:40] [ERROR] CMySQLConnection::Connect - (error #2003) Can't connect to MySQL server on '127.0.0.1' (10061)
+[18:45:41] [ERROR] CMySQLConnection::Connect - (error #2003) Can't connect to MySQL server on '127.0.0.1' (10061)
+[18:45:41] [ERROR] CMySQLConnection::Connect - (error #2003) Can't connect to MySQL server on '127.0.0.1' (10061)
+[18:45:41] [ERROR] CMySQLConnection::Connect - (error #2003) Can't connect to MySQL server on '127.0.0.1' (10061)
+[18:45:45] [ERROR] CMySQLConnection::Connect - (error #2003) Can't connect to MySQL server on '127.0.0.1' (10061)
+[18:45:46] [ERROR] CMySQLConnection::Connect - (error #2003) Can't connect to MySQL server on '127.0.0.1' (10061)
+[18:45:46] [ERROR] CMySQLConnection::Connect - (error #2003) Can't connect to MySQL server on '127.0.0.1' (10061)
+[18:45:46] [ERROR] CMySQLConnection::Connect - (error #2003) Can't connect to MySQL server on '127.0.0.1' (10061)
+[18:45:49] [ERROR] CMySQLConnection::Connect - (error #2003) Can't connect to MySQL server on '127.0.0.1' (10061)
+[18:45:50] [ERROR] CMySQLConnection::Connect - (error #2003) Can't connect to MySQL server on '127.0.0.1' (10061)
+[18:45:50] [ERROR] CMySQLConnection::Connect - (error #2003) Can't connect to MySQL server on '127.0.0.1' (10061)
+[18:45:50] [ERROR] CMySQLConnection::Connect - (error #2003) Can't connect to MySQL server on '127.0.0.1' (10061)
+[18:45:54] [ERROR] CMySQLConnection::Connect - (error #2003) Can't connect to MySQL server on '127.0.0.1' (10061)
+[18:45:55] [ERROR] CMySQLConnection::Connect - (error #2003) Can't connect to MySQL server on '127.0.0.1' (10061)
+[18:45:55] [ERROR] CMySQLConnection::Connect - (error #2003) Can't connect to MySQL server on '127.0.0.1' (10061)
+[18:45:55] [ERROR] CMySQLConnection::Connect - (error #2003) Can't connect to MySQL server on '127.0.0.1' (10061)
+[18:46:03] [ERROR] CMySQLConnection::Connect - (error #2003) Can't connect to MySQL server on '127.0.0.1' (10061)
+[18:46:04] [ERROR] CMySQLConnection::Connect - (error #2003) Can't connect to MySQL server on '127.0.0.1' (10061)
+[18:46:04] [ERROR] CMySQLConnection::Connect - (error #2003) Can't connect to MySQL server on '127.0.0.1' (10061)
+[18:46:04] [ERROR] CMySQLConnection::Connect - (error #2003) Can't connect to MySQL server on '127.0.0.1' (10061)
+[18:46:08] [ERROR] CMySQLConnection::Connect - (error #2003) Can't connect to MySQL server on '127.0.0.1' (10061)
+[18:46:09] [ERROR] CMySQLConnection::Connect - (error #2003) Can't connect to MySQL server on '127.0.0.1' (10061)
+[18:46:09] [ERROR] CMySQLConnection::Connect - (error #2003) Can't connect to MySQL server on '127.0.0.1' (10061)
+[18:46:09] [ERROR] CMySQLConnection::Connect - (error #2003) Can't connect to MySQL server on '127.0.0.1' (10061)
+[18:46:46] [ERROR] CMySQLConnection::Connect - (error #2003) Can't connect to MySQL server on '127.0.0.1' (10061)
+[18:46:47] [ERROR] CMySQLConnection::Connect - (error #2003) Can't connect to MySQL server on '127.0.0.1' (10061)
+[18:46:47] [ERROR] CMySQLConnection::Connect - (error #2003) Can't connect to MySQL server on '127.0.0.1' (10061)
+[18:46:47] [ERROR] CMySQLConnection::Connect - (error #2003) Can't connect to MySQL server on '127.0.0.1' (10061)
+[18:47:19] [ERROR] CMySQLConnection::Connect - (error #2003) Can't connect to MySQL server on '127.0.0.1' (10061)
+[18:47:20] [ERROR] CMySQLConnection::Connect - (error #2003) Can't connect to MySQL server on '127.0.0.1' (10061)
+[18:47:20] [ERROR] CMySQLConnection::Connect - (error #2003) Can't connect to MySQL server on '127.0.0.1' (10061)
+[18:47:20] [ERROR] CMySQLConnection::Connect - (error #2003) Can't connect to MySQL server on '127.0.0.1' (10061)
+[18:47:49] [ERROR] CMySQLConnection::Connect - (error #2003) Can't connect to MySQL server on '127.0.0.1' (10061)
+[18:47:50] [ERROR] CMySQLConnection::Connect - (error #2003) Can't connect to MySQL server on '127.0.0.1' (10061)
+[18:47:50] [ERROR] CMySQLConnection::Connect - (error #2003) Can't connect to MySQL server on '127.0.0.1' (10061)
+[18:47:50] [ERROR] CMySQLConnection::Connect - (error #2003) Can't connect to MySQL server on '127.0.0.1' (10061)
+[18:48:12] [ERROR] CMySQLConnection::Connect - (error #2003) Can't connect to MySQL server on '127.0.0.1' (10061)
+[18:48:13] [ERROR] CMySQLConnection::Connect - (error #2003) Can't connect to MySQL server on '127.0.0.1' (10061)
+[18:48:13] [ERROR] CMySQLConnection::Connect - (error #2003) Can't connect to MySQL server on '127.0.0.1' (10061)
+[18:48:13] [ERROR] CMySQLConnection::Connect - (error #2003) Can't connect to MySQL server on '127.0.0.1' (10061)
+[18:48:48] [ERROR] CMySQLConnection::Connect - (error #2003) Can't connect to MySQL server on '127.0.0.1' (10061)
+[18:48:49] [ERROR] CMySQLConnection::Connect - (error #2003) Can't connect to MySQL server on '127.0.0.1' (10061)
+[18:48:49] [ERROR] CMySQLConnection::Connect - (error #2003) Can't connect to MySQL server on '127.0.0.1' (10061)
+[23:33:44] [ERROR] CMySQLConnection::Connect - (error #2003) Can't connect to MySQL server on '127.0.0.1' (10061)
+[23:33:45] [ERROR] CMySQLConnection::Connect - (error #2003) Can't connect to MySQL server on '127.0.0.1' (10061)
+[23:33:45] [ERROR] CMySQLConnection::Connect - (error #2003) Can't connect to MySQL server on '127.0.0.1' (10061)
+[01:30:12] [ERROR] CMySQLConnection::Connect - (error #2003) Can't connect to MySQL server on '127.0.0.1' (10061)
+[01:30:13] [ERROR] CMySQLConnection::Connect - (error #2003) Can't connect to MySQL server on '127.0.0.1' (10061)
+[01:30:13] [ERROR] CMySQLConnection::Connect - (error #2003) Can't connect to MySQL server on '127.0.0.1' (10061)
+[01:30:13] [ERROR] CMySQLConnection::Connect - (error #2003) Can't connect to MySQL server on '127.0.0.1' (10061)
+[19:18:16] [ERROR] CMySQLConnection::Connect - (error #2003) Can't connect to MySQL server on '127.0.0.1' (10061)
+[19:18:17] [ERROR] CMySQLConnection::Connect - (error #2003) Can't connect to MySQL server on '127.0.0.1' (10061)
+[19:18:17] [ERROR] CMySQLConnection::Connect - (error #2003) Can't connect to MySQL server on '127.0.0.1' (10061)
+[19:18:17] [ERROR] CMySQLConnection::Connect - (error #2003) Can't connect to MySQL server on '127.0.0.1' (10061)
+[00:25:27] [ERROR] CMySQLConnection::Connect - (error #2003) Can't connect to MySQL server on '127.0.0.1' (10061)
+[00:25:28] [ERROR] CMySQLConnection::Connect - (error #2003) Can't connect to MySQL server on '127.0.0.1' (10061)
+[00:25:28] [ERROR] CMySQLConnection::Connect - (error #2003) Can't connect to MySQL server on '127.0.0.1' (10061)
+[00:26:14] [ERROR] CMySQLConnection::Connect - (error #2003) Can't connect to MySQL server on 'localhost' (10061)
+[00:26:16] [ERROR] CMySQLConnection::Connect - (error #2003) Can't connect to MySQL server on 'localhost' (10061)
+[00:26:16] [ERROR] CMySQLConnection::Connect - (error #2003) Can't connect to MySQL server on 'localhost' (10061)
+[00:27:26] [ERROR] CMySQLConnection::Connect - (error #1045) Access denied for user 'server_4692'@'localhost' (using password: YES)
+[00:27:26] [ERROR] CMySQLConnection::Connect - (error #1045) Access denied for user 'server_4692'@'localhost' (using password: YES)
+[00:27:26] [ERROR] CMySQLConnection::Connect - (error #1045) Access denied for user 'server_4692'@'localhost' (using password: YES)
+[00:27:26] [ERROR] CMySQLConnection::Connect - (error #1045) Access denied for user 'server_4692'@'localhost' (using password: YES)
+[00:28:29] [ERROR] CMySQLConnection::Connect - (error #1049) Unknown database 'atinrp'
+[00:28:29] [ERROR] CMySQLConnection::Connect - (error #1049) Unknown database 'atinrp'
+[00:28:29] [ERROR] CMySQLConnection::Connect - (error #1049) Unknown database 'atinrp'
+[00:28:29] [ERROR] CMySQLConnection::Connect - (error #1049) Unknown database 'atinrp'
+[00:29:37] [ERROR] CMySQLQuery::Execute[OnQueryFinish] - (error #1054) Unknown column 'Username' in 'where clause'
+[00:30:09] [ERROR] CMySQLQuery::Execute[OnQueryFinish] - (error #1064) You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '`Dinero` = 0, WHERE `Nombre`='NegruraNoob'' at line 1
+[03:29:45] [ERROR] CMySQLConnection::Connect - (error #1045) Access denied for user 'server_4692'@'localhost' (using password: YES)
+[03:29:45] [ERROR] CMySQLConnection::Connect - (error #1045) Access denied for user 'server_4692'@'localhost' (using password: YES)
+[03:29:45] [ERROR] CMySQLConnection::Connect - (error #1045) Access denied for user 'server_4692'@'localhost' (using password: YES)
+[03:29:45] [ERROR] CMySQLConnection::Connect - (error #1045) Access denied for user 'server_4692'@'localhost' (using password: YES)
+[17:31:26] [ERROR] CMySQLConnection::Connect - (error #1045) Access denied for user 'server_4692'@'localhost' (using password: YES)
+[17:31:26] [ERROR] CMySQLConnection::Connect - (error #1045) Access denied for user 'server_4692'@'localhost' (using password: YES)
+[17:31:26] [ERROR] CMySQLConnection::Connect - (error #1045) Access denied for user 'server_4692'@'localhost' (using password: YES)
+[17:31:26] [ERROR] CMySQLConnection::Connect - (error #1045) Access denied for user 'server_4692'@'localhost' (using password: YES)
+[22:30:05] [ERROR] CMySQLQuery::Execute - (error #1054) Unknown column 'Admin' in 'field list'
+[22:31:22] [ERROR] CMySQLQuery::Execute - (error #1054) Unknown column 'Admin' in 'field list'
+[10:10:07] [ERROR] CMySQLConnection::Connect - (error #1045) Access denied for user 'server_4692'@'localhost' (using password: YES)
+[10:10:07] [ERROR] CMySQLConnection::Connect - (error #1045) Access denied for user 'server_4692'@'localhost' (using password: YES)
+[10:10:07] [ERROR] CMySQLConnection::Connect - (error #1045) Access denied for user 'server_4692'@'localhost' (using password: YES)
+[10:10:07] [ERROR] CMySQLConnection::Connect - (error #1045) Access denied for user 'server_4692'@'localhost' (using password: YES)
+[10:10:48] [ERROR] CMySQLQuery::Execute - (error #2006) MySQL server has gone away
+[10:10:48] [ERROR] CMySQLQuery::Execute - (error #2006) MySQL server has gone away
+[10:10:48] [ERROR] CMySQLQuery::Execute - (error #2006) MySQL server has gone away
+[10:13:46] [ERROR] CMySQLQuery::Execute - (error #1054) Unknown column 'Admin' in 'field list'
+[13:09:58] [ERROR] CMySQLConnection::Connect - (error #2003) Can't connect to MySQL server on 'localhost' (10061)
+[13:10:00] [ERROR] CMySQLConnection::Connect - (error #2003) Can't connect to MySQL server on 'localhost' (10061)
+[13:10:00] [ERROR] CMySQLConnection::Connect - (error #2003) Can't connect to MySQL server on 'localhost' (10061)
+[13:10:00] [ERROR] CMySQLConnection::Connect - (error #2003) Can't connect to MySQL server on 'localhost' (10061)
+[13:11:23] [ERROR] CMySQLConnection::Connect - (error #2003) Can't connect to MySQL server on 'localhost' (10061)
+[13:11:25] [ERROR] CMySQLConnection::Connect - (error #2003) Can't connect to MySQL server on 'localhost' (10061)
+[13:11:25] [ERROR] CMySQLConnection::Connect - (error #2003) Can't connect to MySQL server on 'localhost' (10061)
+[13:13:18] [ERROR] CMySQLQuery::Execute[OnQueryFinish] - (error #1146) Table 'latinrp.usuarios' doesn't exist
+[13:13:34] [ERROR] CMySQLQuery::Execute[OnQueryFinish] - (error #1146) Table 'latinrp.usuarios' doesn't exist
+[21:56:35] [ERROR] CMySQLConnection::Connect - (error #2003) Can't connect to MySQL server on '127.0.0.1' (10061)
+[21:56:36] [ERROR] CMySQLConnection::Connect - (error #2003) Can't connect to MySQL server on '127.0.0.1' (10061)
+[21:56:36] [ERROR] CMySQLConnection::Connect - (error #2003) Can't connect to MySQL server on '127.0.0.1' (10061)
+[21:56:36] [ERROR] CMySQLConnection::Connect - (error #2003) Can't connect to MySQL server on '127.0.0.1' (10061)
+[22:16:16] [ERROR] CMySQLConnection::Connect - (error #2003) Can't connect to MySQL server on '127.0.0.1' (10061)
+[22:16:17] [ERROR] CMySQLConnection::Connect - (error #2003) Can't connect to MySQL server on '127.0.0.1' (10061)
+[22:16:17] [ERROR] CMySQLConnection::Connect - (error #2003) Can't connect to MySQL server on '127.0.0.1' (10061)
+[22:16:17] [ERROR] CMySQLConnection::Connect - (error #2003) Can't connect to MySQL server on '127.0.0.1' (10061)
+[22:33:24] [ERROR] CMySQLConnection::Connect - (error #2003) Can't connect to MySQL server on '127.0.0.1' (10061)
+[22:33:25] [ERROR] CMySQLConnection::Connect - (error #2003) Can't connect to MySQL server on '127.0.0.1' (10061)
+[22:33:25] [ERROR] CMySQLConnection::Connect - (error #2003) Can't connect to MySQL server on '127.0.0.1' (10061)
+[22:33:25] [ERROR] CMySQLConnection::Connect - (error #2003) Can't connect to MySQL server on '127.0.0.1' (10061)
+[22:35:59] [ERROR] CMySQLConnection::Connect - (error #2003) Can't connect to MySQL server on '127.0.0.1' (10061)
+[22:36:00] [ERROR] CMySQLConnection::Connect - (error #2003) Can't connect to MySQL server on '127.0.0.1' (10061)
+[22:36:00] [ERROR] CMySQLConnection::Connect - (error #2003) Can't connect to MySQL server on '127.0.0.1' (10061)
+[22:36:00] [ERROR] CMySQLConnection::Connect - (error #2003) Can't connect to MySQL server on '127.0.0.1' (10061)
+[22:37:50] [ERROR] CMySQLConnection::Connect - (error #2003) Can't connect to MySQL server on '127.0.0.1' (10061)
+[22:37:51] [ERROR] CMySQLConnection::Connect - (error #2003) Can't connect to MySQL server on '127.0.0.1' (10061)
+[22:37:51] [ERROR] CMySQLConnection::Connect - (error #2003) Can't connect to MySQL server on '127.0.0.1' (10061)
+[22:37:51] [ERROR] CMySQLConnection::Connect - (error #2003) Can't connect to MySQL server on '127.0.0.1' (10061)
+[22:41:10] [ERROR] CMySQLConnection::Connect - (error #2003) Can't connect to MySQL server on '127.0.0.1' (10061)
+[22:41:11] [ERROR] CMySQLConnection::Connect - (error #2003) Can't connect to MySQL server on '127.0.0.1' (10061)
+[22:41:11] [ERROR] CMySQLConnection::Connect - (error #2003) Can't connect to MySQL server on '127.0.0.1' (10061)
+[22:41:11] [ERROR] CMySQLConnection::Connect - (error #2003) Can't connect to MySQL server on '127.0.0.1' (10061)
+[22:42:20] [ERROR] CMySQLConnection::Connect - (error #2003) Can't connect to MySQL server on '127.0.0.1' (10061)
+[22:42:21] [ERROR] CMySQLConnection::Connect - (error #2003) Can't connect to MySQL server on '127.0.0.1' (10061)
+[22:42:21] [ERROR] CMySQLConnection::Connect - (error #2003) Can't connect to MySQL server on '127.0.0.1' (10061)
+[22:43:18] [ERROR] CMySQLConnection::Connect - (error #2003) Can't connect to MySQL server on '127.0.0.1' (10061)
+[22:43:19] [ERROR] CMySQLConnection::Connect - (error #2003) Can't connect to MySQL server on '127.0.0.1' (10061)
+[22:43:19] [ERROR] CMySQLConnection::Connect - (error #2003) Can't connect to MySQL server on '127.0.0.1' (10061)
+[22:44:02] [ERROR] CMySQLConnection::Connect - (error #2003) Can't connect to MySQL server on '127.0.0.1' (10061)
+[22:44:03] [ERROR] CMySQLConnection::Connect - (error #2003) Can't connect to MySQL server on '127.0.0.1' (10061)
+[22:44:03] [ERROR] CMySQLConnection::Connect - (error #2003) Can't connect to MySQL server on '127.0.0.1' (10061)
+[15:01:30] [ERROR] CMySQLConnection::Connect - (error #2003) Can't connect to MySQL server on '127.0.0.1' (10061)
+[15:01:31] [ERROR] CMySQLConnection::Connect - (error #2003) Can't connect to MySQL server on '127.0.0.1' (10061)
+[15:01:31] [ERROR] CMySQLConnection::Connect - (error #2003) Can't connect to MySQL server on '127.0.0.1' (10061)
+[15:01:31] [ERROR] CMySQLConnection::Connect - (error #2003) Can't connect to MySQL server on '127.0.0.1' (10061)
+[11:48:03] [ERROR] CMySQLConnection::Connect - (error #2003) Can't connect to MySQL server on '127.0.0.1' (10061)
+[11:48:04] [ERROR] CMySQLConnection::Connect - (error #2003) Can't connect to MySQL server on '127.0.0.1' (10061)
+[11:48:04] [ERROR] CMySQLConnection::Connect - (error #2003) Can't connect to MySQL server on '127.0.0.1' (10061)
+[11:48:04] [ERROR] CMySQLConnection::Connect - (error #2003) Can't connect to MySQL server on '127.0.0.1' (10061)
+[11:51:00] [ERROR] CMySQLConnection::Connect - (error #2003) Can't connect to MySQL server on '127.0.0.1' (10061)
+[11:51:01] [ERROR] CMySQLConnection::Connect - (error #2003) Can't connect to MySQL server on '127.0.0.1' (10061)
+[11:51:01] [ERROR] CMySQLConnection::Connect - (error #2003) Can't connect to MySQL server on '127.0.0.1' (10061)
+[11:51:01] [ERROR] CMySQLConnection::Connect - (error #2003) Can't connect to MySQL server on '127.0.0.1' (10061)
+[11:53:20] [ERROR] CMySQLConnection::Connect - (error #2003) Can't connect to MySQL server on '127.0.0.1' (10061)
+[11:53:21] [ERROR] CMySQLConnection::Connect - (error #2003) Can't connect to MySQL server on '127.0.0.1' (10061)
+[11:53:21] [ERROR] CMySQLConnection::Connect - (error #2003) Can't connect to MySQL server on '127.0.0.1' (10061)
+[11:53:21] [ERROR] CMySQLConnection::Connect - (error #2003) Can't connect to MySQL server on '127.0.0.1' (10061)
+[12:09:14] [ERROR] CMySQLConnection::Connect - (error #2003) Can't connect to MySQL server on '127.0.0.1' (10061)
+[12:09:15] [ERROR] CMySQLConnection::Connect - (error #2003) Can't connect to MySQL server on '127.0.0.1' (10061)
+[12:09:15] [ERROR] CMySQLConnection::Connect - (error #2003) Can't connect to MySQL server on '127.0.0.1' (10061)
+[12:09:15] [ERROR] CMySQLConnection::Connect - (error #2003) Can't connect to MySQL server on '127.0.0.1' (10061)
+[12:15:32] [ERROR] CMySQLConnection::Connect - (error #2003) Can't connect to MySQL server on '127.0.0.1' (10061)
+[12:15:33] [ERROR] CMySQLConnection::Connect - (error #2003) Can't connect to MySQL server on '127.0.0.1' (10061)
+[12:15:33] [ERROR] CMySQLConnection::Connect - (error #2003) Can't connect to MySQL server on '127.0.0.1' (10061)
+[12:15:33] [ERROR] CMySQLConnection::Connect - (error #2003) Can't connect to MySQL server on '127.0.0.1' (10061)
+[12:23:47] [ERROR] CMySQLConnection::Connect - (error #2003) Can't connect to MySQL server on '127.0.0.1' (10061)
+[12:23:48] [ERROR] CMySQLConnection::Connect - (error #2003) Can't connect to MySQL server on '127.0.0.1' (10061)
+[12:23:48] [ERROR] CMySQLConnection::Connect - (error #2003) Can't connect to MySQL server on '127.0.0.1' (10061)
+[12:23:48] [ERROR] CMySQLConnection::Connect - (error #2003) Can't connect to MySQL server on '127.0.0.1' (10061)
+[12:39:26] [ERROR] CMySQLConnection::Connect - (error #2003) Can't connect to MySQL server on '127.0.0.1' (10061)
+[12:39:27] [ERROR] CMySQLConnection::Connect - (error #2003) Can't connect to MySQL server on '127.0.0.1' (10061)
+[12:39:27] [ERROR] CMySQLConnection::Connect - (error #2003) Can't connect to MySQL server on '127.0.0.1' (10061)
+[12:39:27] [ERROR] CMySQLConnection::Connect - (error #2003) Can't connect to MySQL server on '127.0.0.1' (10061)
+[12:42:05] [ERROR] CMySQLConnection::Connect - (error #2003) Can't connect to MySQL server on '127.0.0.1' (10061)
+[12:42:06] [ERROR] CMySQLConnection::Connect - (error #2003) Can't connect to MySQL server on '127.0.0.1' (10061)
+[12:42:06] [ERROR] CMySQLConnection::Connect - (error #2003) Can't connect to MySQL server on '127.0.0.1' (10061)
+[12:42:06] [ERROR] CMySQLConnection::Connect - (error #2003) Can't connect to MySQL server on '127.0.0.1' (10061)
+[12:44:55] [ERROR] CMySQLConnection::Connect - (error #2003) Can't connect to MySQL server on '127.0.0.1' (10061)
+[12:44:56] [ERROR] CMySQLConnection::Connect - (error #2003) Can't connect to MySQL server on '127.0.0.1' (10061)
+[12:44:56] [ERROR] CMySQLConnection::Connect - (error #2003) Can't connect to MySQL server on '127.0.0.1' (10061)
+[11:44:44] [ERROR] CMySQLConnection::Connect - (error #1045) Access denied for user 'server_4692'@'localhost' (using password: YES)
+[11:44:44] [ERROR] CMySQLConnection::Connect - (error #1045) Access denied for user 'server_4692'@'localhost' (using password: YES)
+[11:44:44] [ERROR] CMySQLConnection::Connect - (error #1045) Access denied for user 'server_4692'@'localhost' (using password: YES)
+[11:44:44] [ERROR] CMySQLConnection::Connect - (error #1045) Access denied for user 'server_4692'@'localhost' (using password: YES)
+[12:07:29] [ERROR] CMySQLConnection::Connect - (error #1045) Access denied for user 'server_4692'@'localhost' (using password: YES)
+[12:07:29] [ERROR] CMySQLConnection::Connect - (error #1045) Access denied for user 'server_4692'@'localhost' (using password: YES)
+[12:07:29] [ERROR] CMySQLConnection::Connect - (error #1045) Access denied for user 'server_4692'@'localhost' (using password: YES)
+[12:07:29] [ERROR] CMySQLConnection::Connect - (error #1045) Access denied for user 'server_4692'@'localhost' (using password: YES)
+[12:10:17] [ERROR] CMySQLConnection::Connect - (error #1045) Access denied for user 'server_4692'@'localhost' (using password: YES)
+[12:10:17] [ERROR] CMySQLConnection::Connect - (error #1045) Access denied for user 'server_4692'@'localhost' (using password: YES)
+[12:10:17] [ERROR] CMySQLConnection::Connect - (error #1045) Access denied for user 'server_4692'@'localhost' (using password: YES)
+[12:10:17] [ERROR] CMySQLConnection::Connect - (error #1045) Access denied for user 'server_4692'@'localhost' (using password: YES)
+[14:11:04] [ERROR] CMySQLConnection::Connect - (error #1045) Access denied for user 'server_4692'@'localhost' (using password: YES)
+[14:11:04] [ERROR] CMySQLConnection::Connect - (error #1045) Access denied for user 'server_4692'@'localhost' (using password: YES)
+[14:11:04] [ERROR] CMySQLConnection::Connect - (error #1045) Access denied for user 'server_4692'@'localhost' (using password: YES)
+[14:11:04] [ERROR] CMySQLConnection::Connect - (error #1045) Access denied for user 'server_4692'@'localhost' (using password: YES)
+[14:11:51] [ERROR] CMySQLQuery::Execute - (error #2006) MySQL server has gone away
+[14:11:51] [ERROR] CMySQLQuery::Execute - (error #2006) MySQL server has gone away
+[14:11:51] [ERROR] CMySQLQuery::Execute - (error #2006) MySQL server has gone away
+[23:29:40] [WARNING] CMySQLResult::GetRowData - invalid row ('0') or field index ('17')
+[23:29:40] [ERROR] cache_get_row_int - invalid datatype
+[23:31:17] [ERROR] CMySQLQuery::Execute - (error #1054) Unknown column 'Policia' in 'field list'
+[23:31:17] [ERROR] CMySQLQuery::Execute - (error #1054) Unknown column 'Nivel' in 'field list'
+[00:05:28] [ERROR] CMySQLConnection::Connect - (error #2003) Can't connect to MySQL server on '127.0.0.1' (10061)
+[00:05:29] [ERROR] CMySQLConnection::Connect - (error #2003) Can't connect to MySQL server on '127.0.0.1' (10061)
+[00:05:29] [ERROR] CMySQLConnection::Connect - (error #2003) Can't connect to MySQL server on '127.0.0.1' (10061)
+[00:05:29] [ERROR] CMySQLConnection::Connect - (error #2003) Can't connect to MySQL server on '127.0.0.1' (10061)
+[00:50:05] [ERROR] CMySQLConnection::Connect - (error #2003) Can't connect to MySQL server on '127.0.0.1' (10061)
+[00:50:06] [ERROR] CMySQLConnection::Connect - (error #2003) Can't connect to MySQL server on '127.0.0.1' (10061)
+[00:50:06] [ERROR] CMySQLConnection::Connect - (error #2003) Can't connect to MySQL server on '127.0.0.1' (10061)
+[00:50:06] [ERROR] CMySQLConnection::Connect - (error #2003) Can't connect to MySQL server on '127.0.0.1' (10061)
+[14:38:55] [ERROR] CMySQLConnection::Connect - (error #2003) Can't connect to MySQL server on '127.0.0.1' (10061)
+[14:38:56] [ERROR] CMySQLConnection::Connect - (error #2003) Can't connect to MySQL server on '127.0.0.1' (10061)
+[14:38:56] [ERROR] CMySQLConnection::Connect - (error #2003) Can't connect to MySQL server on '127.0.0.1' (10061)
+[14:38:56] [ERROR] CMySQLConnection::Connect - (error #2003) Can't connect to MySQL server on '127.0.0.1' (10061)
+[14:41:18] [ERROR] CMySQLQuery::Execute - (error #2006) MySQL server has gone away
+[14:41:18] [ERROR] CMySQLQuery::Execute - (error #2006) MySQL server has gone away
+[14:41:18] [ERROR] CMySQLQuery::Execute - (error #2006) MySQL server has gone away
+[14:41:18] [ERROR] CMySQLQuery::Execute - (error #2006) MySQL server has gone away
+[15:19:15] [ERROR] CMySQLConnection::Connect - (error #2003) Can't connect to MySQL server on '127.0.0.1' (10061)
+[15:19:16] [ERROR] CMySQLConnection::Connect - (error #2003) Can't connect to MySQL server on '127.0.0.1' (10061)
+[15:19:16] [ERROR] CMySQLConnection::Connect - (error #2003) Can't connect to MySQL server on '127.0.0.1' (10061)
+[15:19:16] [ERROR] CMySQLConnection::Connect - (error #2003) Can't connect to MySQL server on '127.0.0.1' (10061)
+[15:21:08] [ERROR] CMySQLQuery::Execute - (error #2006) MySQL server has gone away
+[15:21:08] [ERROR] CMySQLQuery::Execute - (error #2006) MySQL server has gone away
+[15:21:08] [ERROR] CMySQLQuery::Execute - (error #2006) MySQL server has gone away
+[15:21:45] [ERROR] CMySQLQuery::Execute - (error #2006) MySQL server has gone away
+[15:21:45] [ERROR] CMySQLQuery::Execute - (error #2006) MySQL server has gone away
+[15:21:45] [ERROR] CMySQLQuery::Execute - (error #2006) MySQL server has gone away
+[15:21:45] [ERROR] CMySQLQuery::Execute - (error #2006) MySQL server has gone away
+[15:21:45] [ERROR] CMySQLQuery::Execute - (error #2006) MySQL server has gone away
+[15:23:46] [ERROR] CMySQLConnection::Connect - (error #2003) Can't connect to MySQL server on '127.0.0.1' (10061)
+[15:23:47] [ERROR] CMySQLConnection::Connect - (error #2003) Can't connect to MySQL server on '127.0.0.1' (10061)
+[15:23:47] [ERROR] CMySQLConnection::Connect - (error #2003) Can't connect to MySQL server on '127.0.0.1' (10061)
+[15:23:47] [ERROR] CMySQLConnection::Connect - (error #2003) Can't connect to MySQL server on '127.0.0.1' (10061)
+[15:24:04] [ERROR] CMySQLConnection::Connect - (error #2003) Can't connect to MySQL server on '127.0.0.1' (10061)
+[15:24:05] [ERROR] CMySQLConnection::Connect - (error #2003) Can't connect to MySQL server on '127.0.0.1' (10061)
+[15:24:05] [ERROR] CMySQLConnection::Connect - (error #2003) Can't connect to MySQL server on '127.0.0.1' (10061)
+[15:24:05] [ERROR] CMySQLConnection::Connect - (error #2003) Can't connect to MySQL server on '127.0.0.1' (10061)
+[15:25:30] [ERROR] CMySQLQuery::Execute - (error #2006) MySQL server has gone away
+[15:25:30] [ERROR] CMySQLQuery::Execute - (error #2006) MySQL server has gone away
+[15:25:30] [ERROR] CMySQLQuery::Execute - (error #2006) MySQL server has gone away
+[15:26:39] [ERROR] CMySQLQuery::Execute - (error #2006) MySQL server has gone away
+[15:26:39] [ERROR] CMySQLQuery::Execute - (error #2006) MySQL server has gone away
+[15:26:39] [ERROR] CMySQLQuery::Execute - (error #2006) MySQL server has gone away
+[15:26:39] [ERROR] CMySQLQuery::Execute - (error #2006) MySQL server has gone away
+[15:26:39] [ERROR] CMySQLQuery::Execute - (error #2006) MySQL server has gone away
+[15:32:12] [ERROR] CMySQLConnection::Connect - (error #2003) Can't connect to MySQL server on '127.0.0.1' (10061)
+[15:32:13] [ERROR] CMySQLConnection::Connect - (error #2003) Can't connect to MySQL server on '127.0.0.1' (10061)
+[15:32:13] [ERROR] CMySQLConnection::Connect - (error #2003) Can't connect to MySQL server on '127.0.0.1' (10061)
+[15:32:13] [ERROR] CMySQLConnection::Connect - (error #2003) Can't connect to MySQL server on '127.0.0.1' (10061)
+[15:33:55] [ERROR] CMySQLQuery::Execute - (error #2006) MySQL server has gone away
+[15:33:55] [ERROR] CMySQLQuery::Execute - (error #2006) MySQL server has gone away
+[15:33:55] [ERROR] CMySQLQuery::Execute - (error #2006) MySQL server has gone away
+[15:34:46] [ERROR] CMySQLQuery::Execute - (error #2006) MySQL server has gone away
+[15:34:46] [ERROR] CMySQLQuery::Execute - (error #2006) MySQL server has gone away
+[15:34:46] [ERROR] CMySQLQuery::Execute - (error #2006) MySQL server has gone away
+[15:34:46] [ERROR] CMySQLQuery::Execute - (error #2006) MySQL server has gone away
+[15:34:46] [ERROR] CMySQLQuery::Execute - (error #2006) MySQL server has gone away
+[15:56:27] [ERROR] CMySQLConnection::Connect - (error #2003) Can't connect to MySQL server on '127.0.0.1' (10061)
+[15:56:28] [ERROR] CMySQLConnection::Connect - (error #2003) Can't connect to MySQL server on '127.0.0.1' (10061)
+[15:56:28] [ERROR] CMySQLConnection::Connect - (error #2003) Can't connect to MySQL server on '127.0.0.1' (10061)
+[15:56:28] [ERROR] CMySQLConnection::Connect - (error #2003) Can't connect to MySQL server on '127.0.0.1' (10061)
+[15:57:32] [ERROR] CMySQLQuery::Execute - (error #2006) MySQL server has gone away
+[15:57:32] [ERROR] CMySQLQuery::Execute - (error #2006) MySQL server has gone away
+[15:57:32] [ERROR] CMySQLQuery::Execute - (error #2006) MySQL server has gone away
+[15:58:17] [ERROR] CMySQLQuery::Execute - (error #2006) MySQL server has gone away
+[15:58:17] [ERROR] CMySQLQuery::Execute - (error #2006) MySQL server has gone away
+[15:58:17] [ERROR] CMySQLQuery::Execute - (error #2006) MySQL server has gone away
+[15:58:48] [ERROR] CMySQLQuery::Execute - (error #2006) MySQL server has gone away
+[15:58:48] [ERROR] CMySQLQuery::Execute - (error #2006) MySQL server has gone away
+[15:58:48] [ERROR] CMySQLQuery::Execute - (error #2006) MySQL server has gone away
+[15:58:48] [ERROR] CMySQLQuery::Execute - (error #2006) MySQL server has gone away
+[15:58:48] [ERROR] CMySQLQuery::Execute - (error #2006) MySQL server has gone away
+[16:01:17] [ERROR] CMySQLConnection::Connect - (error #2003) Can't connect to MySQL server on '127.0.0.1' (10061)
+[16:01:18] [ERROR] CMySQLConnection::Connect - (error #2003) Can't connect to MySQL server on '127.0.0.1' (10061)
+[16:01:18] [ERROR] CMySQLConnection::Connect - (error #2003) Can't connect to MySQL server on '127.0.0.1' (10061)
+[16:01:18] [ERROR] CMySQLConnection::Connect - (error #2003) Can't connect to MySQL server on '127.0.0.1' (10061)
+[16:02:30] [ERROR] CMySQLQuery::Execute - (error #2006) MySQL server has gone away
+[16:02:30] [ERROR] CMySQLQuery::Execute - (error #2006) MySQL server has gone away
+[16:02:30] [ERROR] CMySQLQuery::Execute - (error #2006) MySQL server has gone away
+[16:03:16] [ERROR] CMySQLQuery::Execute - (error #2006) MySQL server has gone away
+[16:03:16] [ERROR] CMySQLQuery::Execute - (error #2006) MySQL server has gone away
+[16:03:16] [ERROR] CMySQLQuery::Execute - (error #2006) MySQL server has gone away
+[16:03:48] [ERROR] CMySQLQuery::Execute - (error #2006) MySQL server has gone away
+[16:03:48] [ERROR] CMySQLQuery::Execute - (error #2006) MySQL server has gone away
+[16:03:48] [ERROR] CMySQLQuery::Execute - (error #2006) MySQL server has gone away
+[16:03:48] [ERROR] CMySQLQuery::Execute - (error #2006) MySQL server has gone away
+[16:03:48] [ERROR] CMySQLQuery::Execute - (error #2006) MySQL server has gone away
+[20:32:02] [ERROR] CMySQLConnection::Connect - (error #2003) Can't connect to MySQL server on '127.0.0.1' (10061)
+[20:32:03] [ERROR] CMySQLConnection::Connect - (error #2003) Can't connect to MySQL server on '127.0.0.1' (10061)
+[20:32:03] [ERROR] CMySQLConnection::Connect - (error #2003) Can't connect to MySQL server on '127.0.0.1' (10061)
+[20:32:03] [ERROR] CMySQLConnection::Connect - (error #2003) Can't connect to MySQL server on '127.0.0.1' (10061)
+[20:33:56] [ERROR] CMySQLQuery::Execute - (error #2006) MySQL server has gone away
+[20:33:56] [ERROR] CMySQLQuery::Execute - (error #2006) MySQL server has gone away
+[20:33:56] [ERROR] CMySQLQuery::Execute - (error #2006) MySQL server has gone away
+[20:34:27] [ERROR] CMySQLQuery::Execute - (error #2006) MySQL server has gone away
+[20:34:27] [ERROR] CMySQLQuery::Execute - (error #2006) MySQL server has gone away
+[20:34:27] [ERROR] CMySQLQuery::Execute - (error #2006) MySQL server has gone away
+[20:36:06] [ERROR] CMySQLQuery::Execute - (error #2006) MySQL server has gone away
+[20:36:06] [ERROR] CMySQLQuery::Execute - (error #2006) MySQL server has gone away
+[20:36:06] [ERROR] CMySQLQuery::Execute - (error #2006) MySQL server has gone away
+[20:36:06] [ERROR] CMySQLQuery::Execute - (error #2006) MySQL server has gone away
+[20:36:06] [ERROR] CMySQLQuery::Execute - (error #2006) MySQL server has gone away
+[01:03:23] [ERROR] CMySQLConnection::Connect - (error #2003) Can't connect to MySQL server on '127.0.0.1' (10061)
+[01:03:24] [ERROR] CMySQLConnection::Connect - (error #2003) Can't connect to MySQL server on '127.0.0.1' (10061)
+[01:03:24] [ERROR] CMySQLConnection::Connect - (error #2003) Can't connect to MySQL server on '127.0.0.1' (10061)
+[01:03:24] [ERROR] CMySQLConnection::Connect - (error #2003) Can't connect to MySQL server on '127.0.0.1' (10061)
+[01:05:51] [ERROR] CMySQLQuery::Execute - (error #2006) MySQL server has gone away
+[01:05:51] [ERROR] CMySQLQuery::Execute - (error #2006) MySQL server has gone away
+[01:05:51] [ERROR] CMySQLQuery::Execute - (error #2006) MySQL server has gone away
+[01:05:59] [ERROR] CMySQLQuery::Execute - (error #2006) MySQL server has gone away
+[01:05:59] [ERROR] CMySQLQuery::Execute - (error #2006) MySQL server has gone away
+[01:05:59] [ERROR] CMySQLQuery::Execute - (error #2006) MySQL server has gone away
+[01:06:00] [ERROR] CMySQLQuery::Execute - (error #2006) MySQL server has gone away
+[01:06:00] [ERROR] CMySQLQuery::Execute - (error #2006) MySQL server has gone away
+[01:06:00] [ERROR] CMySQLQuery::Execute - (error #2006) MySQL server has gone away
+[01:06:00] [ERROR] CMySQLQuery::Execute - (error #2006) MySQL server has gone away
+[01:06:00] [ERROR] CMySQLQuery::Execute - (error #2006) MySQL server has gone away
+[18:12:30] [ERROR] CMySQLConnection::Connect - (error #2003) Can't connect to MySQL server on '127.0.0.1' (10061)
+[18:12:31] [ERROR] CMySQLConnection::Connect - (error #2003) Can't connect to MySQL server on '127.0.0.1' (10061)
+[18:12:31] [ERROR] CMySQLConnection::Connect - (error #2003) Can't connect to MySQL server on '127.0.0.1' (10061)
+[18:13:23] [ERROR] CMySQLQuery::Execute - (error #2006) MySQL server has gone away
+[18:13:23] [ERROR] CMySQLQuery::Execute - (error #2006) MySQL server has gone away
+[18:13:23] [ERROR] CMySQLQuery::Execute - (error #2006) MySQL server has gone away
+[18:15:27] [ERROR] CMySQLQuery::Execute - (error #2006) MySQL server has gone away
+[18:15:27] [ERROR] CMySQLQuery::Execute - (error #2006) MySQL server has gone away
+[18:15:27] [ERROR] CMySQLQuery::Execute - (error #2006) MySQL server has gone away
+[18:15:27] [ERROR] CMySQLQuery::Execute - (error #2006) MySQL server has gone away
+[18:15:27] [ERROR] CMySQLQuery::Execute - (error #2006) MySQL server has gone away
+[18:30:41] [ERROR] CMySQLConnection::Connect - (error #2003) Can't connect to MySQL server on '127.0.0.1' (10061)
+[18:30:42] [ERROR] CMySQLConnection::Connect - (error #2003) Can't connect to MySQL server on '127.0.0.1' (10061)
+[18:30:42] [ERROR] CMySQLConnection::Connect - (error #2003) Can't connect to MySQL server on '127.0.0.1' (10061)
+[18:30:42] [ERROR] CMySQLConnection::Connect - (error #2003) Can't connect to MySQL server on '127.0.0.1' (10061)
+[18:31:37] [ERROR] CMySQLQuery::Execute - (error #2006) MySQL server has gone away
+[18:31:37] [ERROR] CMySQLQuery::Execute - (error #2006) MySQL server has gone away
+[18:31:37] [ERROR] CMySQLQuery::Execute - (error #2006) MySQL server has gone away
+[19:53:32] [ERROR] CMySQLConnection::Connect - (error #2003) Can't connect to MySQL server on '127.0.0.1' (10061)
+[19:53:33] [ERROR] CMySQLConnection::Connect - (error #2003) Can't connect to MySQL server on '127.0.0.1' (10061)
+[19:53:33] [ERROR] CMySQLConnection::Connect - (error #2003) Can't connect to MySQL server on '127.0.0.1' (10061)
+[11:35:56] [ERROR] CMySQLConnection::Connect - (error #2003) Can't connect to MySQL server on '127.0.0.1' (10061)
+[11:35:57] [ERROR] CMySQLConnection::Connect - (error #2003) Can't connect to MySQL server on '127.0.0.1' (10061)
+[11:35:57] [ERROR] CMySQLConnection::Connect - (error #2003) Can't connect to MySQL server on '127.0.0.1' (10061)
+[11:35:57] [ERROR] CMySQLConnection::Connect - (error #2003) Can't connect to MySQL server on '127.0.0.1' (10061)
+[18:52:24] [ERROR] CMySQLConnection::Connect - (error #2003) Can't connect to MySQL server on '127.0.0.1' (10061)
+[18:52:25] [ERROR] CMySQLConnection::Connect - (error #2003) Can't connect to MySQL server on '127.0.0.1' (10061)
+[18:52:25] [ERROR] CMySQLConnection::Connect - (error #2003) Can't connect to MySQL server on '127.0.0.1' (10061)
+[18:52:25] [ERROR] CMySQLConnection::Connect - (error #2003) Can't connect to MySQL server on '127.0.0.1' (10061)
+[16:18:39] [ERROR] CMySQLConnection::Connect - (error #2003) Can't connect to MySQL server on '127.0.0.1' (10061)
+[16:18:40] [ERROR] CMySQLConnection::Connect - (error #2003) Can't connect to MySQL server on '127.0.0.1' (10061)
+[16:18:40] [ERROR] CMySQLConnection::Connect - (error #2003) Can't connect to MySQL server on '127.0.0.1' (10061)
+[16:18:40] [ERROR] CMySQLConnection::Connect - (error #2003) Can't connect to MySQL server on '127.0.0.1' (10061)
